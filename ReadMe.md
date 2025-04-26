@@ -27,9 +27,13 @@ cases
 Kontribusi terbuka untuk siapa saja. Silakan pull request atau diskusi via issue jika ingin menambahkan solusi, ide studi kasus baru, atau perbaikan
 Belajar sambil berbagi, sedikit demi sedikit jadi bukit.
 
+## LICENSE
+This project is licensed under the [MIT License](./LICENSE).
+
 ## Penutup
 
 Terima kasih dan selamat belajar!
 Thank you and happy coding!
 
-**Dont forget a cup coffee for today**
+---
+> NB: **Dont forget a cup coffee for today**
