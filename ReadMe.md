@@ -1,39 +1,35 @@
 # Java Problem Studies
+![License](https://img.shields.io/badge/license-MIT-green)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)
+
+Repositori ini berisi kumpulan studi kasus dan latihan pemrograman menggunakan bahasa **Java**. Tujuannya adalah untuk mendokumentasikan proses belajar dan berbagi ilmu secara bertahap.
 
 ---
-Repositori ini berisi kumpulan studi kasus dan latihan pemrograman menggunakan bahasa Java. Tujuannya adalah untuk berbagi ilmu dan mendokumentasikan proses belajar secara bertahap.
 
-## Isi Repository
+## 🎯 Tujuan
+- Mendokumentasikan proses belajar Java
+- Menyediakan referensi studi kasus sederhana
+- Berbagi solusi yang dapat membantu pemula
 
-Berisi file-file Java yang menyelesaikan berbagai permasalahan dasar hingga menengah dalam pemrograman. Studi kasus akan terus bertambah seiring proses belajar.
+## 🤝 Kontribusi
+Kontribusi terbuka untuk siapa saja!
+Silakan lakukan Pull Request untuk menambahkan:
+- Solusi baru
+- Studi kasus tambahan
+- Perbaikan atau peningkatan kode
 
-Struktur awal:
+Atau diskusikan melalui Issue jika ada ide atau masukan.
+> Belajar sambil berbagi, sedikit demi sedikit menjadi bukit 🌱
 
-```bash
-cases
-├── CountWords.java
-├── ReverseString.java
-└── SumOfArray.java
-```
+## 📄 Lisensi
 
-## Tujuan
-
- - Mendokumentasikan proses belajar Java
- - Menyediakan referensi studi kasus sederhana
- - Berbagi solusi yang dapat membantu pemula
-
-## Kontribusi
-
-Kontribusi terbuka untuk siapa saja. Silakan pull request atau diskusi via issue jika ingin menambahkan solusi, ide studi kasus baru, atau perbaikan
-Belajar sambil berbagi, sedikit demi sedikit jadi bukit.
-
-## LICENSE
-This project is licensed under the [MIT License](./LICENSE).
-
-## Penutup
-
-Terima kasih dan selamat belajar!
-Thank you and happy coding!
+Proyek ini menggunakan [MIT License](./LICENSE).
 
 ---
-> NB: **Dont forget a cup coffee for today**
+
+## ☕
+
+**NB:** Jangan lupa secangkir kopi hari ini.  
+_Thank you and happy coding!_
+
+---
